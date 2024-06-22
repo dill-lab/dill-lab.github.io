@@ -12,11 +12,11 @@ nav_order: 5
 ### Are we recruiting?
 
 
-
-Yes, we are actively recruiting PhD students in this 🍁 Fall!
+We are no longer recruiting PhD students, or undergrads. We might be looking for 1-2 Masters students in Fall.
+<!-- Yes, we are actively recruiting PhD students in this 🍁 Fall!
 <!-- Please keep an eye out for the [announcement of admissions for the PhD Program](https://www.cs.usc.edu/ph-d-application-information/). -->
-Please see below to figure out if [your research interests align with ours](/publications/), and apply to the [USC PhD Admissions](https://www.cs.usc.edu/ph-d-application-information/) by ⚡ [Dec 15th, 2023](https://days.to/until/15-december) and select [Swabha](https://www.cs.usc.edu/directory/faculty/profile/?lname=Swayamdipta&fname=Swabha) as a potential advisor.
-USC has waived GRE scores for graduate admissions and offers [fee waivers](https://gradadm.usc.edu/lightboxes/us-students-fee-waivers/) to select applicants.
+<!-- Please see below to figure out if [your research interests align with ours](/publications/), and apply to the [USC PhD Admissions](https://www.cs.usc.edu/ph-d-application-information/) by ⚡ [Dec 15th, 2023](https://days.to/until/15-december) and select [Swabha](https://www.cs.usc.edu/directory/faculty/profile/?lname=Swayamdipta&fname=Swabha) as a potential advisor.
+USC has waived GRE scores for graduate admissions and offers [fee waivers](https://gradadm.usc.edu/lightboxes/us-students-fee-waivers/) to select applicants. --> -->
 
 <hr>
 
