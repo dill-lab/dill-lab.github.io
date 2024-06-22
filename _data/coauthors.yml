@@ -32,3 +32,21 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"swayamdipta":
+  - firstname: ["Swabha", "Swabha Swayamdipta"]
+    url: https://swabhs.com
+
+"ghosh":
+  - firstname: ["Sayan", "Sayan Ghosh"]
+    url: https://sghosh73.github.io
+
+
+"finlayson":
+  - firstname: ["Matthew", "Matthew Finlayson", "Matt", "Matt Finlayson"]
+    url: https://mattf1n.github.io/
+
+
+"joshi":
+  - firstname: ["Brihi", "Brihi Joshi"]
+    url: https://brihijoshi.github.io/
