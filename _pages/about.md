@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.usc.edu/'>University of Southern California</a> •  <a href='https://www.cs.usc.edu/'>Viterbi CS</a> •  <a href='https://www.nlp.usc.edu/'>USC NLP</a>
+subtitle: <a href='https://www.usc.edu/'>University of Southern California</a> •  <a href='https://www.cs.usc.edu/'>Viterbi CS</a> •  <a href='https://nlp.usc.edu/'>USC NLP</a>
 
 profile:
   align: right

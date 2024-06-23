@@ -5,7 +5,7 @@ description: Fall 2023 -
 img: assets/img/people/matt.jpeg
 importance: 3
 category: phd
-coadvisor: <a href="Xiang Ren">Xiang Ren</a>
+coadvisor: <a href="https://www.seanre.com/">Xiang Ren</a>
 redirect: https://mattf1n.github.io/
 ---
 
