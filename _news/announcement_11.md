@@ -5,4 +5,3 @@ inline: true
 ---
 
 Sayan and Jaspreet hosted the first DILL Lab Office hours for USC undergrads interested in research.
-

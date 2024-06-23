@@ -16,8 +16,10 @@ social: false # includes social icons at the bottom of the page
 ---
 
 The _**D**ata_, _**I**nterpretability_, _**L**anguage_ and _**L**earning_, (**DILL**) lab, led by [Swabha Swayamdipta](https://swabhs.com), explores questions in the intersection of natural language processing and machine learning.
+
 <!-- DILL is focused on automatically estimating the quality of datasets for models, efficient pretraining, and semi-automatically building datasets that help models learn better. -->
 <!-- We also emphasize on special aspects of language that affect dataset quality, such as subjectivity and ambiguity. -->
+
 Our research considers language (and other) data, models that train on this data and their impact on society.
 These are some questions we are currently exploring:
 
@@ -25,6 +27,5 @@ These are some questions we are currently exploring:
 - Do language models have the ability to generate text with specific properties and what does that reveal about them?
 - What roles do different kinds of data play in the successes or failures of language models?
 - How can we use language models to understand our society better?
-
 
 Check out our [latest publications](/publications/) and a [short summary of the questions we are currently working on](/opportunities).

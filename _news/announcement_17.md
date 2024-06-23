@@ -5,4 +5,3 @@ inline: true
 ---
 
 Two new preprints on arxiv: on [video summarization](https://arxiv.org/abs/2309.09405) and on the [softmax bottleneck](https://arxiv.org/abs/2310.01693).
-

@@ -5,4 +5,3 @@ inline: true
 ---
 
 We hosted [Sarah Wiegreffe](https://sarahwie.github.io/), a postdoctoral researcher from AI2.
-

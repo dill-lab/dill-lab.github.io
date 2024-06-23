@@ -13,7 +13,3 @@ inline: true
 ---
 
 The DILL lab had a pre-Thanksgiving get-together with a dinner potluck.
-
-
-
-

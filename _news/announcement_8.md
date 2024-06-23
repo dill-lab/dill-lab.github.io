@@ -5,4 +5,3 @@ inline: true
 ---
 
 New USC PhD student [Jiarui Zhang](https://scholar.google.com/citations?user=rM4hgN8AAAAJ&hl=en) gave an invited talk at the group meeting.
-

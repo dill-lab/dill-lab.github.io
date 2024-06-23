@@ -5,4 +5,3 @@ inline: true
 ---
 
 Matt gave an invited talk at CMU LTI.
-

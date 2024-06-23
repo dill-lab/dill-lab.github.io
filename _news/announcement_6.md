@@ -5,4 +5,3 @@ inline: true
 ---
 
 Software engineering PhD student [Tooraj Helmi](https://toorajhelmi.github.io/home/) will be a guest at the DILL for the spring semester.
-

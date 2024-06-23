@@ -5,4 +5,3 @@ inline: true
 ---
 
 [Urja Khurana](https://urjakh.github.io/), a Phd Student from Vrije Universiteit, Amsterdam is visiting our lab this summer, working on hate speech detection.
-

@@ -5,4 +5,3 @@ inline: true
 ---
 
 DILL attended the ACM Undergrad Research Event to reach out to undergrads and masters students interested in the lab.
-

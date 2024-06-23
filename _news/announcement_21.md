@@ -5,7 +5,3 @@ inline: true
 ---
 
 We hosted [Kawin Ethayarajh](https://kawine.github.io/), a PhD student at Stanford.
-
-
-
-

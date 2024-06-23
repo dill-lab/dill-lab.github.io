@@ -5,4 +5,3 @@ inline: true
 ---
 
 We had a summer barbecue social along with the <a href="https://glamor-usc.github.io/">GLAMOR</a> lab at the Kenneth Hahn State Park.
-

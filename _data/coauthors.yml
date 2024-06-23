@@ -3,32 +3,21 @@
   - firstname: ["Swabha", "Swabha Swayamdipta"]
     url: https://swabhs.com
 
-"ranjit":
-  - firstname: ["Jaspreet", "Jaspreet Ranjit"]
-    url: https://jr4fs.github.io/
-
 "ghosh":
   - firstname: ["Sayan", "Sayan Ghosh"]
     url: https://sghosh73.github.io
 
-
-"finlayson":
-  - firstname: ["Matthew", "Matthew Finlayson", "Matt", "Matt Finlayson"]
-    url: https://mattf1n.github.io/
-
+"ranjit":
+  - firstname: ["Jaspreet", "Jaspreet Ranjit"]
+    url: https://jr4fs.github.io/
 
 "joshi":
   - firstname: ["Brihi", "Brihi Joshi"]
     url: https://brihijoshi.github.io/
 
-
-"cui":
-  - firstname: ["Xinyue", "Xinyue Cui"]
-    url: https://x-f-cui.github.io/website/
-
-"nam":
-  - firstname: ["Yoonsoo", "Yoonsoo Nam"]
-    url: https://yoonsoonam.com/
+"bottarini":
+  - firstname: ["Jayne", "Jayne Bottarini"]
+    url: https://www.linkedin.com/in/jayne-bottarini/
 
 "gulati":
   - firstname: ["Aryan", "Aryan Gulati"]
@@ -37,6 +26,18 @@
 "dong":
   - firstname: ["Xingjian", "Xingjian Dong"]
     url: "https://www.linkedin.com/in/xingjiandong/"
+
+"cui":
+  - firstname: ["Xinyue", "Xinyue Cui"]
+    url: https://x-f-cui.github.io/website/
+
+"finlayson":
+  - firstname: ["Matthew", "Matthew Finlayson", "Matt", "Matt Finlayson"]
+    url: https://mattf1n.github.io/
+
+"nam":
+  - firstname: ["Yoonsoo", "Yoonsoo Nam"]
+    url: https://yoonsoonam.com/
 
 "lehavi":
   - firstname: ["Adam", "Adam Lehavi"]

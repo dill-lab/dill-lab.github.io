@@ -5,4 +5,3 @@ inline: true
 ---
 
 We had a summer ice cream social at Culver City Downtown with many new members.
-

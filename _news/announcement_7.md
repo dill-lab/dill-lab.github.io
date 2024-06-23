@@ -5,4 +5,3 @@ inline: true
 ---
 
 Friend of the lab, [Eunice Jun](https://eunicemjun.com/) gave an invited talk at the group meeting.
-

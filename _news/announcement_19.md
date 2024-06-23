@@ -5,4 +5,3 @@ inline: true
 ---
 
 Attended [SoCalNLP 2023](https://socalnlp.github.io/symp23/index.html), where members of the DILL lab presented 4 papers.
-

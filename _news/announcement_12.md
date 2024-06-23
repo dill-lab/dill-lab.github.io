@@ -5,4 +5,3 @@ inline: true
 ---
 
 We hosted (incoming) Assistant Professor at IISc Bangalore, [Danish Pruthi](https://danishpruthi.com/) in our lab.
-

@@ -5,4 +5,3 @@ inline: true
 ---
 
 Friend of the lab, [Suchin Gururangan](https://suchin.io/) gave an invited talk at the group meeting.
-

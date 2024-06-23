@@ -5,4 +5,3 @@ inline: true
 ---
 
 DILL hosts [Yanai Elazar](https://yanaiela.github.io/), YI at the Allen Institute for AI.
-
