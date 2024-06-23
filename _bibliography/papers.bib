@@ -29,6 +29,7 @@
       author={Aryan Gulati and Xingjian Dong and Carlos Hurtado and Sarath Shekkizhar and Swabha Swayamdipta and Antonio Ortega},
       year={2024},
       abbr={Preprint},
+      preview={nnk-means.jpg},
       url={},
       abstract={As language models become more general purpose, increased attention needs to be paid to detecting out-of-distribution (OOD) instances, i.e., those not belonging to any of the distributions seen during training. Existing methods for detecting OOD data are computationally complex and storage-intensive. We propose a novel soft clustering approach for OOD detection based on non-negative kernel regression. Our approach greatly reduces computational and space complexities (up to $11\times $ improvement in inference time and 87% reduction in storage requirements) and outperforms existing approaches by up to 4 AUROC points on four different benchmarks. We also introduce an entropy-constrained version of our algorithm, which leads to further reductions in storage requirements (up to 97% lower than comparable approaches) while retaining competitive performance. Our soft clustering approach for OOD detection highlights its potential for detecting tail-end phenomena in extreme-scale data settings.},
 }
@@ -38,6 +39,7 @@
       author={Urja Khurana and Eric Nalisnick and Antske Fokkens and Swabha Swayamdipta},
       year={2024},
       abbr={Preprint},
+      preview={crowd-calibrator.jpg},
       url={},
       abstract={Subjective tasks in NLP have been mostly relegated to objective ones where the gold label is decided by taking the majority vote, thereby obfuscating annotator disagreement and inherent uncertainty of instances. We argue that that subjectivity should play a role in model decisions, considering a selective prediction setting. However, instead of calibrating confidence purely from the model’s perspective, we calibrate models for subjective tasks based on crowdworker agreement. Our method, Crowd-Calibrator, models annotations from crowdworkers and the distance between crowdworker distribution and the model’s own distribution over labels to inform whether the model should abstain from a decision. On two highly subjective tasks, namely hate speech detection and natural language inference (NLI), our experiments show Crowd-Calibrator either outperforming or achieving competitive performance with selective prediction baselines, highlighting the value of bringing in human decision making into model predictions.},
 }
@@ -73,6 +75,7 @@
       abbr={ICLR},
       booktitle={Proc. of ICLR},
       selected=true,
+      preview={bat.png},
       abstract={Despite their ubiquity in language generation, it remains unknown why truncation sampling heuristics like nucleus sampling are so effective. We provide a theoretical explanation for the effectiveness of the truncation sampling by proving that truncation methods that discard tokens below some probability threshold (the most common type of truncation) can guarantee that all sampled tokens have nonzero true probability. However, thresholds are a coarse heuristic, and necessarily discard some tokens with nonzero true probability as well. In pursuit of a more precise sampling strategy, we show that we can leverage a known source of model errors, the softmax bottleneck, to prove that certain tokens have nonzero true probability, without relying on a threshold. Based on our findings, we develop an experimental truncation strategy and the present pilot studies demonstrating the promise of this type of algorithm. Our evaluations show that our method outperforms its threshold-based counterparts under automatic and human evaluation metrics for low-entropy (i.e., close to greedy) open-ended text generation. Our theoretical findings and pilot experiments provide both insight into why truncation sampling works, and make progress toward more expressive sampling algorithms that better surface the generative capabilities of large language models.}
 }
 
@@ -84,5 +87,6 @@
       booktitle={Proc. of ICASSP},
       abbr={ICASSP},
       selected=true,
+      preview={video-summarization.png},
       abstract={Video summarization remains a huge challenge in computer vision due to the size of the input videos to be summarized. We propose an efficient, language-only video summarizer that achieves competitive accuracy with high data efficiency. Using only textual captions obtained via a zero-shot approach, we train a language transformer model and forego image representations. This method allows us to perform filtration amongst the representative text vectors and condense the sequence. With our approach, we gain explainability with natural language that comes easily for human interpretation and textual summaries of the videos. An ablation study that focuses on modality and data compression shows that leveraging text modality only effectively reduces input data processing while retaining comparable results.}
 }
