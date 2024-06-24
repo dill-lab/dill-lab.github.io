@@ -33,7 +33,7 @@ Here are some questions we have worked on recently:
 - What does our data tell us about our models?
   : What makes a data collection valuable for instruction tuning or finetuning large language models? Is all human feedback equally valuable under PPO or DPO? Our [Dataset Cartography](https://arxiv.org/abs/2009.10795) offers point estimates, and [V-Information](https://arxiv.org/abs/2110.08420) offers both point and aggregate estimates of data quality. How can we build similar estimates for generative models? Are all modalities and all data necessary in [multimodal settings](https://arxiv.org/abs/2309.09405)?
 
-- How can our models help us understand reveal our society?
+- How can our models help us understand our society?
   : How far can language models go in helping us understand [complex social phenomena such as homelessness](https://dill-lab.github.io/oath-frames/)? Is it possible to create [collaborative setups between humans and generative models](https://arxiv.org/abs/2201.05955) to this end? What role does [conversational and social context](https://arxiv.org/abs/2306.01985) play in this understanding? Can socio-technical solutions [work well for all](https://arxiv.org/abs/2111.07997)?
 
 
