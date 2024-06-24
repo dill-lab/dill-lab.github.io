@@ -21,6 +21,8 @@
       selected=true,
       preview={oath_frames.jpeg},
       selected=true,
+      award={Jaspreet received the best poster award at USC CAIS's annual symposium, ShowCAIS in Spring 2024.},
+      award_name={Best Poster @ ShowCAIS'24},
       code={https://github.com/dill-lab/oath-frames},
       abstract={Homelessness in the U.S. is widespread; individual beliefs and attitudes towards homelessness—often expressed on social media are complex and nuanced (e.g. critical as well as sympathetic). Such attitudes can be challenging to summarize at scale, obfuscating the broader public opinion which advocacy organizations use to guide public policy and reform efforts. Our work proposes an approach to enable a large-scale study on homelessness via two major contributions. First, with the help of domain experts in social work and their trainees, we characterize Online Attitudes towards Homelessness in nine hierarchical frames (OATH-Frames) on a collection of 4K social media posts. Further, in an effort to ease the annotation of these frames, we employ GPT-4 as an LLM assistant to the experts; GPT-4 + Expert annotation presents an attractive trade off owing to a 6.5× speedup in annotation time despite only incurring a 2 point F1 difference in annotation performance. Our effort results in a collection of 8K social media posts labeled by domain and trained experts (with and without GPT-4 assistance). Second, using predicted OATH-Frames on a Flan-T5-Large model trained on our data, we perform a large-scale analysis on 2.4M posts on homelessness. We find that posts that contain mentions of west coast states express more harmful generalizations of people experiencing homelessness (PEH) compared to posts about east coast states. We also find marked differences in attitudes across vulnerable populations as they are compared to PEH as being either more or less deserving of aid.},
 }
@@ -64,6 +66,7 @@
       booktitle={Proceedings of ACL (to appear)},
       year={2024},
       selected=true,
+      code={https://github.com/dill-lab/FrameNet-Conditional-Generation},
       preview={fn-conditioned-generation.jpeg},
       abstract={Despite the mounting evidence for generative  capabilities of language models in understanding and generating natural language, their effectiveness on explicit manipulation and generation of linguistic structures remain understudied. In this paper, we investigate the task of generating new sentences preserving a given semantic structure, following the FrameNet formalism. We propose a framework to produce novel frame-semantically annotated sentences following an overgenerate-and-filter approach. Our results show that conditioning on rich, explicit semantic information tends to produce generations with high human acceptance, under both prompting and finetuning. Nevertheless, we discover that generated frame-semantic structured data is ineffective at training data augmentation for frame-semantic role labeling. Our study concludes that while generating high-quality, semantically rich data might be within reach, their downstream utility remains to be seen, highlighting the outstanding challenges with automating linguistic annotation tasks.},
 }
@@ -76,6 +79,7 @@
       abbr={ICLR},
       booktitle={Proc. of ICLR},
       selected=true,
+      code={https://github.com/mattf1n/basis-aware-threshold},
       preview={bat.png},
       abstract={Despite their ubiquity in language generation, it remains unknown why truncation sampling heuristics like nucleus sampling are so effective. We provide a theoretical explanation for the effectiveness of the truncation sampling by proving that truncation methods that discard tokens below some probability threshold (the most common type of truncation) can guarantee that all sampled tokens have nonzero true probability. However, thresholds are a coarse heuristic, and necessarily discard some tokens with nonzero true probability as well. In pursuit of a more precise sampling strategy, we show that we can leverage a known source of model errors, the softmax bottleneck, to prove that certain tokens have nonzero true probability, without relying on a threshold. Based on our findings, we develop an experimental truncation strategy and the present pilot studies demonstrating the promise of this type of algorithm. Our evaluations show that our method outperforms its threshold-based counterparts under automatic and human evaluation metrics for low-entropy (i.e., close to greedy) open-ended text generation. Our theoretical findings and pilot experiments provide both insight into why truncation sampling works, and make progress toward more expressive sampling algorithms that better surface the generative capabilities of large language models.}
 }
