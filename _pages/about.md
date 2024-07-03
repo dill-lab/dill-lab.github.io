@@ -28,7 +28,7 @@ Here are some questions we have worked on recently:
   : How do language models handle specific distributions of language, such as [ambiguous language](https://arxiv.org/abs/2304.14399), [comparative language](https://arxiv.org/abs/2305.04978) or the language of [explanations](https://arxiv.org/abs/2112.08674)? Can language models generate [structured data](https://arxiv.org/abs/2406.04834)?
 
 - How reliable is comparative generative evaluation?
-  : What cannot be measured, cannot be improved. Can we [reliably compare the generative performance](/publications) of two different models, in either close-ended generation tasks such as summarization or in open-ended generation? What makes model A better than model B, or are our test sets somewhat misleading us?
+  : What cannot be measured, cannot be improved. Can we [reliably compare the generative performance](https://arxiv.org/abs/2407.01878) of two different models, in either close-ended generation tasks such as summarization or in open-ended generation? What makes model A better than model B, or are our test sets somewhat misleading us?
 
 - What does our data tell us about our models?
   : What makes a data collection valuable for instruction tuning or finetuning large language models? Is all human feedback equally valuable under PPO or DPO? Our [Dataset Cartography](https://arxiv.org/abs/2009.10795) offers point estimates, and [V-Information](https://arxiv.org/abs/2110.08420) offers both point and aggregate estimates of data quality. How can we build similar estimates for generative models? Are all modalities and all data necessary in [multimodal settings](https://arxiv.org/abs/2309.09405)?
