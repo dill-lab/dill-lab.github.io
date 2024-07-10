@@ -47,7 +47,11 @@
   <!-- Entry bib key -->
   <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+     {% if entry.url %}
+        <div class="title"><a href="{{ entry.url }}" target="_blank"><b>{{entry.title}}</b></a></div>
+      {% else %}
+        <div class="title">{{ entry.title }}</div>
+    {% endif %}
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -82,15 +86,17 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <em>
+          <b>
             {{- author.first }}
             {{ author_last_html -}}
-          </em>
+          </b>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{coauthor_url}}">
-              {{- author.first }}
-              {{ author_last_html -}}
+              <b>
+                {{ author.first }}
+                {{ author_last_html }}
+              </b>
             </a>
           {%- else -%}
             {{- author.first }}
@@ -192,9 +198,9 @@
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-1 rounded" role="button">Abs</a>
       {% endif %}
-      {%- if entry.url %}
+      <!-- {%- if entry.url %}
             <a href="{{ entry.url }}" class="abstract btn btn-sm z-depth-1 rounded" role="button">URL</a>
-          {%- endif %}
+          {%- endif %} -->
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-1 rounded" role="button">arXiv</a>
       {% endif %}
