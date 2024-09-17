@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Muru Zhang
-description: (Incoming) Fall 2024 -
+description: Fall 2024 -
 img: assets/img/people/muru.jpeg
 redirect: https://nanami18.github.io/
 importance: 6
