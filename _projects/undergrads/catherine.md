@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Catherine He
-description: Summer-Fall 2023
+description: Fall 2024-
+img: /assets/img/catherine.jpg
 importance: 1
-category: ugradalum
+category: undergrad
 redirect: "https://www.linkedin.com/in/catherineyxhe/"
 ---
