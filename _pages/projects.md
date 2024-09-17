@@ -5,7 +5,7 @@ permalink: /people/
 description:
 nav: true
 nav_order: 3
-display_categories: [faculty, postdoc, phd, masters, undergrad, visitor, gradalum, ugradalum]
+display_categories: [faculty, postdoc, phd, masters, undergrad, gradalum, ugradalum]
 horizontal: false
 ---
 
