@@ -10,7 +10,44 @@ horizontal: true
 ---
 
 
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/social/2025-spring-griffith-hike.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+      <b>Spring 2025:</b> DILL Lab Hike in Griffith Park.
+    </div>
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/social/2025-spring-thai-town.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+     <b>Spring 2025:</b> DILL Lab Social in Thai Town.
+    </div>
+  </div>
+</div>
 
+<div class="row justify-content-sm-center">
+   <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/social/2024-fall-thanksgiving.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+     <b>Fall 2024:</b> DILL Lab Thanksgiving.
+    </div>
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/social/2024-fall-social-citizen-public-market.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+     <b>Fall 2024:</b> DILL Lab Social at Citizen Public Market.
+    </div>
+  </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/social/2024-fall-culver-social.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+      <b>Fall 2024:</b> DILL Lab Social in Culver City.
+    </div>
+  </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
