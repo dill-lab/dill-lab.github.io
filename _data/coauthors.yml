@@ -42,3 +42,13 @@
 "lehavi":
   - firstname: ["Adam", "Adam Lehavi"]
     url: "https://www.linkedin.com/in/adam-lehavi/"
+
+"kulkarni":
+  - firstname: ["Atharva", "Atharva Jitendra", "Atharva J.", "Atharva Kulkarni", "Atharva Jitendra Kulkarni"]
+    url: "https://athrvkk.github.io/"
+
+"zhang":
+  - firstname: ["Muru", "Muru Zhang"]
+    url: "https://nanami18.github.io/"
+
+
