@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Jacky Mo
-description: Fall 23 - Spring 24
+description: Fall 23 - Spring 24 ➡️   PhD, UC Davis
 # img: /assets/img/people/jacky.jpg
 importance: 3
 category: ugradalum
-redirect: "https://www.linkedin.com/in/jacky-mo-b5827a213/"
+redirect: "https://jacky-mo-1111.github.io/"
 ---
