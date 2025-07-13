@@ -16,9 +16,8 @@
       title={Teaching Models to Understand (but not Generate) High-risk Data},
       author={Ryan Wang and Matthew Finlayson and Luca Soldaini and Swabha Swayamdipta and Robin Jia},
       year={2025},
-      eprint={2505.03052},
-      abbr={arXiv},
-      journal={Under Review},
+      abbr={CoLM},
+      journal={Conference on Language Modeling},
       url={https://arxiv.org/abs/2505.03052},
       abstract={Language model developers typically filter out high-risk content -- such as toxic or copyrighted text -- from their pre-training data to prevent models from generating similar outputs. However, removing such data altogether limits models' ability to recognize and appropriately respond to harmful or sensitive content. In this paper, we introduce Selective Loss to Understand but Not Generate (SLUNG), a pre-training paradigm through which models learn to understand high-risk data without learning to generate it. Instead of uniformly applying the next-token prediction loss, SLUNG selectively avoids incentivizing the generation of high-risk tokens while ensuring they remain within the model's context window. As the model learns to predict low-risk tokens that follow high-risk ones, it is forced to understand the high-risk content. Through our experiments, we show that SLUNG consistently improves models' understanding of high-risk data (e.g., ability to recognize toxic content) without increasing its generation (e.g., toxicity of model responses). Overall, our SLUNG paradigm enables models to benefit from high-risk text that would otherwise be filtered out.},
 }
