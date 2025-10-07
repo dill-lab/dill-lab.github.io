@@ -9,7 +9,7 @@ nav_order: 4
 
 ### Are we recruiting?
 
-We are no longer recruiting PhD students, or undergrads. We might be looking for 1-2 Masters students in Fall; see below.
+We are not recruiting PhD students, Masters students or undergrads at the moment.
 
 <!-- Yes, we are actively recruiting PhD students in this 🍁 Fall!
 <!-- Please keep an eye out for the [announcement of admissions for the PhD Program](https://www.cs.usc.edu/ph-d-application-information/). -->
@@ -21,7 +21,7 @@ Due to the high volume of email, there is very <span class="emphasized">little c
 
 #### PhD Applicants
 
-We recruit PhDs only through the formal PhD application at USC. We will announce open slots, if any, only in late Fall 2024. There is very little chance Swabha will respond to any email about PhD recruitment, sorry!
+We recruit PhDs only through the formal PhD application at USC. We will announce open slots, if any, only in late Fall. There is very little chance Swabha will respond to any email about PhD recruitment, sorry!
 
 <!-- We carefully consider every single PhD application we receive. -->
 <!-- However, if you do email Swabha, drop in a few lines about your past research, and why you're interested in working with the DILL Lab. -->
@@ -35,7 +35,8 @@ We recruit PhDs only through the formal PhD application at USC. We will announce
   - _Masters Students_
 
     : _RAships_
-      : We are looking to recruit motivated Masters students in <span class="emphasized">Fall 2024</span>. If interested in our lab, **please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd1hAoKEkVtzmY2dbgENi8ob47eq7rmoIfyjWrXJ9czMoRAfg/viewform?usp=sf_link)**. <span class="emphasized">Swabha will NOT respond to any emails</span>, sorry! Also, do consider enrolling for Swabha's class [CSCI-544 Applied NLP](https://swabhs.com/new_teaching/) in Fall'24, which might lead to collaborations.
+      <!-- : We are looking to recruit motivated Masters students in <span class="emphasized">Fall 2024</span>. If interested in our lab, **please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd1hAoKEkVtzmY2dbgENi8ob47eq7rmoIfyjWrXJ9czMoRAfg/viewform?usp=sf_link)**. <span class="emphasized">Swabha will NOT respond to any emails</span>, sorry! Also, do consider enrolling for Swabha's class [CSCI-544 Applied NLP](https://swabhs.com/new_teaching/) in Fall'24, which might lead to collaborations. -->
+      : We are not looking for any Masters Students as RAs at the moment.
 
     : _TAships_
       : We are not looking for any Masters Students as TAs at the moment.
